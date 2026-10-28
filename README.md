@@ -10,4 +10,4 @@ Adicionado a validação dos dados de entrada, a contagem de cadastros, a verifi
 
 ## link do projeto
 
-### https://github.com/Gustavo0401/Vinharia-Agnello-checkpoint02.git
+### https://gustavo0401.github.io/Vinharia-Agnello-checkpoint02/
