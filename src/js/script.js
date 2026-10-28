@@ -29,13 +29,13 @@ while (continuar === "s") {
 
   totalCadastros++;
 
- // verificação do estoque
+ // verificação
   if (quantidade < 5) {
     estoqueBaixo++;
     alert("Atenção: estoque baixo!");
   }
 
-  // Classificão dos vinhos
+  // Classificão
   var idade = new Date().getFullYear() - ano;
   var classificacao;
 
